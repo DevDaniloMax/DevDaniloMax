@@ -33,10 +33,20 @@ Crio soluções que unem <b>design, eficiência e inovação</b>, focadas em <b>
 ---
 
 ### 📊 Estatísticas
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevDaniloMax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaniloMax&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevDaniloMax&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaniloMax&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=DevDaniloMax&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevDaniloMax&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividades recentes"/>
+</p>
+
 
 ---
 
